@@ -1,0 +1,31 @@
+[
+  {
+    "id": "20261008215226818226",
+    "date": "2026-10-08T21:52:26",
+    "client": "Иван Петров",
+    "items": [
+      {
+        "product_id": 1,
+        "name": "Кроссовки беговые Nike Pegasus",
+        "size": 40,
+        "quantity": 2,
+        "price": 8990.0
+      },
+      {
+        "product_id": 3,
+        "name": "Футболка спортивная Puma",
+        "size": "M",
+        "quantity": 1,
+        "price": 1990.0
+      },
+      {
+        "product_id": 5,
+        "name": "Мяч футбольный Select",
+        "size": 5,
+        "quantity": 1,
+        "price": 2990.0
+      }
+    ],
+    "total": 22960.0
+  }
+]
