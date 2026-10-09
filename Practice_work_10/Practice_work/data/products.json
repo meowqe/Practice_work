@@ -1,0 +1,10 @@
+[
+    {"name": "Футбольный мяч", "brand": "Adidas", "category": "Мячи", "price": 2500, "quantity": 2},
+    {"name": "Баскетбольный мяч", "brand": "Nike", "category": "Мячи", "price": 3000, "quantity": 5},
+    {"name": "Футбольные бутсы", "brand": "Puma", "category": "Обувь", "price": 6500, "quantity": 3},
+    {"name": "Спортивная форма", "brand": "Adidas", "category": "Одежда", "price": 4500, "quantity": 10},
+    {"name": "Беговые кроссовки", "brand": "Nike", "category": "Обувь", "price": 8900, "quantity": 7},
+    {"name": "Скакалка", "brand": "Reebok", "category": "Инвентарь", "price": 700, "quantity": 15},
+    {"name": "Гантели 5 кг", "brand": "Reebok", "category": "Инвентарь", "price": 1800, "quantity": 1},
+    {"name": "Спортивный рюкзак", "brand": "Puma", "category": "Аксессуары", "price": 3200, "quantity": 6}
+]

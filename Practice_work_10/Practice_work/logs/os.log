@@ -1,0 +1,56 @@
+2026-10-09 07:55:33,119 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:55:33,120 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:55:33,121 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:55:33,122 [INFO] Завершение работы ядра
+2026-10-09 07:55:38,590 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:55:38,590 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:55:38,591 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:55:38,591 [INFO] Завершение работы ядра
+2026-10-09 07:56:54,636 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:56:54,637 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:56:54,638 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:56:54,638 [INFO] Завершение работы ядра
+2026-10-09 07:56:54,782 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:56:54,784 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:56:54,785 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:56:54,785 [INFO] Завершение работы ядра
+2026-10-09 07:57:01,078 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:57:01,082 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:57:01,083 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:57:01,084 [INFO] Завершение работы ядра
+2026-10-09 07:57:08,480 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:57:08,481 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:57:08,482 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:57:08,482 [INFO] Завершение работы ядра
+2026-10-09 07:58:10,644 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:58:10,645 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:58:10,646 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:58:10,646 [INFO] Завершение работы ядра
+2026-10-09 07:58:10,737 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:58:10,738 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:58:10,739 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:58:10,739 [INFO] Завершение работы ядра
+2026-10-09 07:59:12,108 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:59:12,109 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:59:12,110 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:59:12,110 [INFO] Завершение работы ядра
+2026-10-09 07:59:12,301 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:59:12,302 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:59:12,303 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:59:12,303 [INFO] Завершение работы ядра
+2026-10-09 07:59:20,594 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:59:20,595 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:59:20,596 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:59:20,596 [INFO] Завершение работы ядра
+2026-10-09 07:59:20,728 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:59:20,729 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:59:20,730 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:59:20,730 [INFO] Завершение работы ядра
+2026-10-09 07:59:20,939 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:59:20,940 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:59:20,941 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:59:20,941 [INFO] Завершение работы ядра
+2026-10-09 07:59:30,531 [INFO] MyOS 0.1: загрузка ядра
+2026-10-09 07:59:30,532 [INFO] sys_echo args=('hi',) user=anonymous status=ok
+2026-10-09 07:59:30,534 [INFO] sys_get_users args=() user=anonymous status=ok
+2026-10-09 07:59:30,534 [INFO] Завершение работы ядра
